@@ -1,5 +1,5 @@
 # Self Organizing Map
-
+# using minisom 2.1.6 by Giuseppe Vettigli
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
